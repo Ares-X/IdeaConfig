@@ -1,0 +1,24 @@
+<keymap version="1" name="Default for Windows 复制" parent="$default">
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="ChoosePrevSubsequentPropertyValueEditorAction" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
+  <action id="MethodUp" />
+  <action id="SelectNextOccurrence" />
+  <action id="XDebugger.MoveWatchUp" />
+</keymap>
